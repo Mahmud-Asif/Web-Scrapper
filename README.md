@@ -15,7 +15,7 @@ The files in the output will go into their corresponding folders which are the c
 
 So like if the csv file is as follows:
 
-|# Source 	|### Target|
+|Source 	|Target|
 |-----|-----|
 |https://www.tripadvisor.ca/Hotel_Review-g1480252-d316623-Reviews-Kuredu_Island_Resort_Spa-Kuredu.html |https://www.oyster.com/maldives/hotels/kuredu-island-resort-and-spa/ |
 
