@@ -19,8 +19,6 @@ So like if the csv file is as follows:
 |-----|-----|
 |https://www.tripadvisor.ca/Hotel_Review-g1480252-d316623-Reviews-Kuredu_Island_Resort_Spa-Kuredu.html |https://www.oyster.com/maldives/hotels/kuredu-island-resort-and-spa/ |
 |-----|-----|
-|https://www.oyster.com/maldives/hotels/kuredu-island-resort-and-spa/  	 |https://www.oyster.com/maldives/hotels/kuredu-island-resort-and-spa/ |
-|-----|-----|
 
 then there will be folders created for each file and the name of the folder would be starting from 0,1,2 as in the row numbers.
 
